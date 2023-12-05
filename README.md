@@ -1,0 +1,1 @@
+[![Python application test with Github Actions](https://github.com/python-dev-og/CICD-API-microservices/actions/workflows/devops.yml/badge.svg)](https://github.com/python-dev-og/CICD-API-microservices/actions/workflows/devops.yml)
